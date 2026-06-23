@@ -1,65 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Nethu | Portfolio</title>
-    <link rel="stylesheet" href="style.css">
+<title>Nethu Portfolio</title>
+<link rel="stylesheet" href="style.css">
 </head>
+
 <body>
 
-    <header>
-        <h1>Warsha Nethmini</h1>
-        <p>BSc Data Science Undergraduate | Future AI Engineer</p>
-    </header>
+<h1>Nethu</h1>
 
-    <section>
-        <h2>About Me</h2>
-        <p>
-            I am a First-Year Data Science undergraduate with a strong interest
-            in Artificial Intelligence, Machine Learning, and Data Analytics.
-            I enjoy learning new technologies and building projects.
-        </p>
-    </section>
+<h2>Data Science Undergraduate</h2>
 
-    <section>
-        <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>Git & GitHub</li>
-            <li>HTML & CSS</li>
-            <li>Data Analysis</li>
-        </ul>
-    </section>
+<p>
+Interested in Artificial Intelligence, Machine Learning and Data Analytics.
+</p>
 
-    <section>
-        <h2>Education</h2>
-        <p>BSc in Data Science (Currently Reading)</p>
-    </section>
+<h2>About Me</h2>
+<p>
+I am a first year Data Science student learning programming and AI technologies.
+</p>
 
-    <section>
-        <h2>Projects</h2>
+<h2>Skills</h2>
+<ul>
+<li>Python</li>
+<li>Git & GitHub</li>
+<li>HTML & CSS</li>
+</ul>
 
-        <div class="card">
-            <h3>Portfolio Website</h3>
-            <p>Personal portfolio website built using HTML and CSS.</p>
-        </div>
+<h2>Projects</h2>
+<p>
+My AI and Data Science projects will be added soon.
+</p>
 
-        <div class="card">
-            <h3>Future AI Projects</h3>
-            <p>Machine Learning and Data Science projects will be added soon.</p>
-        </div>
-
-    </section>
-
-    <section>
-        <h2>Contact</h2>
-        <p>Email: your-email@example.com</p>
-        <p>GitHub: github.com/yourusername</p>
-    </section>
-
-    <footer>
-        <p>© 2026 Nethu</p>
-    </footer>
+<h2>Contact</h2>
+<p>
+GitHub: Your GitHub Link
+</p>
 
 </body>
 </html>
