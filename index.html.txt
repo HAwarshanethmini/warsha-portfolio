@@ -8,8 +8,8 @@
 <body>
 
     <header>
-        <h1>Nethu</h1>
-        <p>Data Science Undergraduate | Future AI Engineer</p>
+        <h1>Warsha Nethmini</h1>
+        <p>BSc Data Science Undergraduate | Future AI Engineer</p>
     </header>
 
     <section>
